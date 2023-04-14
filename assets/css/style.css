@@ -1,0 +1,16 @@
+.my-form {
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: bisque;
+  height: 80px;
+}
+
+.chat-history {
+  height: 90vh;
+  overflow: scroll;
+}
